@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+  }
+  
+  .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .title {
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+  }
+
+  .child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 10px;
+  }
+
+  .form{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 100px;
+    
+  }
+
+  .form h2 {
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+.div-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5px;
+}
+
+  .input {
+    text-indent: 20px;
+    font-family: "Poppins", sans-serif;
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+  }
+
+  .submit {
+    width: 180px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 18px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+
+  }
+
+  .head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .head h2{
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 20px;
+  }
+
+  .reload{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 50px;
+  }
+
+  .context{
+    width: 330px;
+    overflow: scroll;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+  }
+
+  .items{
+    width: 330px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .items:nth-child(even) {background-color: rgba(187, 169, 171, 0.549);}
+
+  .items p{
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
