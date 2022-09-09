@@ -25,7 +25,7 @@ addBtn.addEventListener('click', (e) => {
   if (!(userValue === '' && scoreValue === '')) {
     postData(userValue, scoreValue);
   }
-
+  loadData();
   userName.value = '';
   userScore.value = '';
 });
