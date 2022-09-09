@@ -141,6 +141,7 @@ body {
   align-items: center;
   margin-bottom: 20px;
   background-color: rgb(241, 172, 178);
+  padding-top: 20px;
 }
 
 .items {

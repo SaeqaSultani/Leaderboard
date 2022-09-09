@@ -11,8 +11,15 @@ learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript a
 - JavaScripth
 - Webpack
 
-# Live Demo :)
+# Getting Started
+  Follow the instructions below to get started.
+- Cloning the repo
+- cd into the directory
+- installing the npm packages (npm install)
+- And finally starting the app. (that will be npm start) 
 
+
+# Live Demo :)
 
 [Live Demo Link](https://github.com/SaeqaSultani/Leaderboard/)
 
