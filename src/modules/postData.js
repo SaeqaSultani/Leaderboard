@@ -1,4 +1,4 @@
-const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/KtKCwfICVDsBiC/scores/';
+const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/tKCwfICVDsBiC/scores/';
 
 const postData = async (username, score) => {
   const body = JSON.stringify({ user: username, score });

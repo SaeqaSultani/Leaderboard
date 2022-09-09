@@ -2,17 +2,26 @@
 
 this is a webpack project that the purpose of this project is to understand how use callbacks and promises,
 learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript and use webpack to bundle JavaScript.
+
+![MyImage](./src/images/screenshot.png)
+
 # Built With
 - HTML
 - CSS
 - JavaScripth
 - Webpack
 
+# Getting Started
+  Follow the instructions below to get started.
+- Cloning the repo
+- cd into the directory
+- installing the npm packages (npm install)
+- And finally starting the app. (that will be npm start) 
+
 
 # Live Demo :)
 
-
-[Live Demo Link](https://github.com/SaeqaSultani/Leaderboard/)
+[Live Demo Link](https://saeqasultani.github.io/Leaderboard/)
 
 # Authors
 
