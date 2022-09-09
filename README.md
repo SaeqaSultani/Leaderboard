@@ -21,7 +21,7 @@ learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript a
 
 # Live Demo :)
 
-[Live Demo Link](https://github.com/SaeqaSultani/Leaderboard/)
+[Live Demo Link](https://saeqasultani.github.io/Leaderboard/)
 
 # Authors
 
