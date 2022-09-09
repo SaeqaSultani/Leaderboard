@@ -2,13 +2,14 @@
 
 this is a webpack project that the purpose of this project is to understand how use callbacks and promises,
 learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript and use webpack to bundle JavaScript.
+
+![MyImage](./src/images/screenshot.png)
+
 # Built With
 - HTML
 - CSS
 - JavaScripth
 - Webpack
-
-![MyImage](./src/images/bg-image.jpg)
 
 # Live Demo :)
 
