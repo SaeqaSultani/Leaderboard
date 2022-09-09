@@ -136,7 +136,7 @@ body {
   border: 4px solid rgb(255, 255, 255);
   width: 330px;
   overflow: scroll;
-  height: 55vh;
+  height: 450px;
   display: flex;
   flex-direction: column;
   justify-content: center;

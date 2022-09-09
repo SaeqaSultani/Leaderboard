@@ -8,9 +8,7 @@ learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript a
 - JavaScripth
 - Webpack
 
-<img src="./images/bg-image.jpg" alt="My cool logo"/>
-![My Image](./src/images/bg-image.jpg)
-# My cool project and above is the logo of it
+![MyImage](./src/images/bg-image.jpg)
 
 # Live Demo :)
 
