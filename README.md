@@ -3,7 +3,7 @@
 this is a webpack project that the purpose of this project is to understand how use callbacks and promises,
 learn how to use proper ES6 syntax,use ES6 modules to write modular JavaScript and use webpack to bundle JavaScript.
 
-![MyImage](./src/images/screenshot.png)
+![laderbord](https://user-images.githubusercontent.com/74806645/198383211-ab950c10-f4e9-41c3-b8c8-a0295d0ff1dd.png)
 
 # Built With
 - HTML
